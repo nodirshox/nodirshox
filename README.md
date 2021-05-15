@@ -4,4 +4,4 @@
 - My main stack Node JS
 - Currently graduating from [IUT](https://inha.uz)
 - Feel free reach out to mr.nodirbek77@gmail.com
-- Linkedin [profile](https://www.linkedin.com/in/nodirshox/)
+- [Linkedin](https://www.linkedin.com/in/nodirshox/)
