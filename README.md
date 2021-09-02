@@ -1,4 +1,4 @@
-### Hey 👋, I am Nodirbek, Backend developer
+### Hey 👋, I am Nodirbek, Software Engineer
 
 - [Resume](https://gist.github.com/nodirshox/656f033dbdbe3bd8bebcb842e685dc49)
 - Checkout my [blog](https://ergashevn.blogspot.com/)
