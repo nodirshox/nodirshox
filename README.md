@@ -4,6 +4,6 @@
 - [Linkedin](https://www.linkedin.com/in/nodirshox/)
 - Checkout my [blog](https://ergashevn.blogspot.com/)
 - Currently studying at Msc Computer Science at Maharishi International University
-- Main stack Java & Node JS
+- Main stack Java
 - [IUT](https://inha.uz) graduate 3.1/4.5
 - Feel free reach out to mr.nodirbek77@gmail.com
